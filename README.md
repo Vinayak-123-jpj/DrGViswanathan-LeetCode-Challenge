@@ -4,13 +4,16 @@ Welcome to my LeetCode challenge repository!
 
 I am solving one LeetCode problem every day as part of the **#DrGViswanathan Challenge** to improve my Data Structures & Algorithms (DSA) skills.
 
-## 📅 Progress
+## 📈 Progress
+
+**Completed:** 4 / 100 Problems ✅
 
 | Day | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
 | Day 1 | Find Numbers with Even Number of Digits | Easy | ✅ |
 | Day 2 | Fizz Buzz | Easy | ✅ |
 | Day 3 | Valid Palindrome | Easy | ✅ |
+| Day 4 | Two Sum | Easy | ✅ |
 
 More solutions will be added daily.
 
