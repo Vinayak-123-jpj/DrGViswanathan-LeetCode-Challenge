@@ -6,10 +6,11 @@ I am solving one LeetCode problem every day as part of the **#DrGViswanathan Cha
 
 ## 📅 Progress
 
-| Day | Problem | Difficulty | Solution |
-|-----|---------|------------|----------|
+| Day | Problem | Difficulty | Status |
+|-----|---------|------------|--------|
 | Day 1 | Find Numbers with Even Number of Digits | Easy | ✅ |
 | Day 2 | Fizz Buzz | Easy | ✅ |
+| Day 3 | Valid Palindrome | Easy | ✅ |
 
 More solutions will be added daily.
 
