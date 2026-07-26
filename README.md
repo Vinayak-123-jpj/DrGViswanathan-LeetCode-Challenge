@@ -29,3 +29,19 @@ More solutions will be added daily.
 - Strengthen DSA fundamentals
 
 ⭐ Thanks for visiting my repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vinayak-123-jpj/DrGViswanathan-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vinayak-123-jpj/DrGViswanathan-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vinayak-123-jpj/DrGViswanathan-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->
