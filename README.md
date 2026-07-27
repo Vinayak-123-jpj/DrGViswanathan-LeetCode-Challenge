@@ -6,7 +6,9 @@ I am solving one LeetCode problem every day as part of the **#DrGViswanathan Cha
 
 ## 📈 Progress
 
-**Completed:** 4 / 100 Problems ✅
+## 📈 Progress
+
+**Completed:** 6 / 50 Problems ✅
 
 | Day | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
@@ -14,7 +16,8 @@ I am solving one LeetCode problem every day as part of the **#DrGViswanathan Cha
 | Day 2 | Fizz Buzz | Easy | ✅ |
 | Day 3 | Valid Palindrome | Easy | ✅ |
 | Day 4 | Two Sum | Easy | ✅ |
-
+| Day 5 | Roman to Integer | Easy | ✅ |
+| Day 6 | Valid Parentheses | Easy | ✅ |
 More solutions will be added daily.
 
 ## 💻 Language
