@@ -1,12 +1,34 @@
-# 🚀 DrGViswanathan LeetCode Challenge
+# 🚀 DrGViswanathan Coding Challenge
 
-Welcome to my LeetCode challenge repository!
+Welcome to my coding challenge repository!
 
-I am solving one LeetCode problem every day as part of the **#DrGViswanathan Challenge** to improve my Data Structures & Algorithms (DSA) skills.
+I am solving one coding problem every day as part of the **#DrGViswanathan Challenge** to strengthen my **Data Structures & Algorithms (DSA)**, **Problem Solving**, and **Competitive Programming** skills.
 
-## 📈 Progress
+## 🎯 Goal
 
-**Completed:** 7 / 100 Problems ✅
+- Solve one problem every day.
+- Improve problem-solving skills.
+- Build consistency through daily practice.
+- Maintain all solutions in C++.
+- Share my learning journey on LinkedIn and GitHub.
+
+---
+
+## 🛠️ Platforms
+
+- LeetCode
+- Codeforces
+
+---
+
+## 💻 Language
+
+- C++
+
+---
+
+# 📈 Progress
+
 
 | Day | Problem | Platform | Difficulty | Status |
 |-----|---------|----------|------------|--------|
@@ -16,21 +38,49 @@ I am solving one LeetCode problem every day as part of the **#DrGViswanathan Cha
 | Day 4 | Two Sum | LeetCode | Easy | ✅ |
 | Day 5 | Roman to Integer | LeetCode | Easy | ✅ |
 | Day 6 | Valid Parentheses | LeetCode | Easy | ✅ |
-| Day 7 | Watermelon | Codeforces | 800 | ✅ |
+| Day 7 | Watermelon (4A) | Codeforces | 800 | ✅ |
+| Day 8 | Way Too Long Words (71A) | Codeforces | 800 | ✅ |
+| Day 9 | Team (231A) | Codeforces | 800 | ✅ |
+| Day 10 | Next Round (158A) | Codeforces | 800 | ✅ |
 
-More solutions will be added daily.
+---
+`
 
-## 💻 Language
+Each folder contains:
+- ✅ Solution in C++
+- ✅ Problem README
+- ✅ Time & Space Complexity
+- ✅ Approach
 
-- C++
+---
 
-## 🎯 Goal
+## 📚 Topics Covered
 
-- Improve problem-solving skills
-- Stay consistent
-- Prepare for coding interviews
-- Strengthen DSA fundamentals
+- Arrays
+- Strings
+- Mathematics
+- Hashing
+- Stack
+- Simulation
+- Implementation
+- Conditional Logic
 
-⭐ Thanks for visiting my repository!
+---
 
+## 🎯 Current Progress
 
+- ✅ 10 Problems Solved
+- 🔥 Current Streak: 10 Days
+---
+
+## 🤝 Connect With Me
+
+**LinkedIn:**  
+www.linkedin.com/in/vinayak-dhyani-18b547373
+
+**GitHub:**  
+https://github.com/Vinayak-123-jpj
+
+---
+
+⭐ If you're also on a coding journey, feel free to connect and follow my progress!
