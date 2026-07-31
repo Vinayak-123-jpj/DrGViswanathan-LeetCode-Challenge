@@ -42,7 +42,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 8 | Way Too Long Words (71A) | Codeforces | 800 | ✅ |
 | Day 9 | Team (231A) | Codeforces | 800 | ✅ |
 | Day 10 | Next Round (158A) | Codeforces | 800 | ✅ |
-
+| Day 11 | String Task | Codeforces | 800 | ✅ |
 ---
 `
 
