@@ -43,6 +43,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 9 | Team (231A) | Codeforces | 800 | ✅ |
 | Day 10 | Next Round (158A) | Codeforces | 800 | ✅ |
 | Day 11 | String Task | Codeforces | 800 | ✅ |
+| Day 12 | Petya and Strings | Codeforces | 800 | ✅ |
 ---
 `
 
