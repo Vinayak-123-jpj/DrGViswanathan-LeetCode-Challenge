@@ -27,8 +27,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 
 ---
 
-# 📈 Progress
-
+## 📅 Progress
 
 | Day | Problem | Platform | Difficulty | Status |
 |-----|---------|----------|------------|--------|
@@ -42,9 +41,13 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 8 | Way Too Long Words (71A) | Codeforces | 800 | ✅ |
 | Day 9 | Team (231A) | Codeforces | 800 | ✅ |
 | Day 10 | Next Round (158A) | Codeforces | 800 | ✅ |
-| Day 11 | String Task | Codeforces | 800 | ✅ |
-| Day 12 | Petya and Strings | Codeforces | 800 | ✅ |
-| Day 13 | Helpful Maths | Codeforces | 800 | ✅ |
+| Day 11 | String Task (118A) | Codeforces | 800 | ✅ |
+| Day 12 | Petya and Strings (112A) | Codeforces | 800 | ✅ |
+| Day 13 | Helpful Maths (339A) | Codeforces | 800 | ✅ |
+| Day 14 | Word Capitalization (281A) | Codeforces | 800 | ✅ |
+| Day 15 | Boy or Girl (236A) | Codeforces | 800 | ✅ |
+| Day 16 | Beautiful Matrix (263A) | Codeforces | 800 | ✅ |
+
 ---
 `
 
