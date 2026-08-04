@@ -72,11 +72,7 @@ Each folder contains:
 
 ---
 
-## 🎯 Current Progress
 
-- ✅ 10 Problems Solved
-- 🔥 Current Streak: 10 Days
----
 
 ## 🤝 Connect With Me
 
