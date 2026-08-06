@@ -48,6 +48,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 15 | Boy or Girl (236A) | Codeforces | 800 | ✅ |
 | Day 16 | Beautiful Matrix (263A) | Codeforces | 800 | ✅ |
 | Day 17 | Stones on the Table (266A) | Codeforces | 800 | ✅ |
+| Day 18 | Bit++ (282A) | Codeforces | 800 | ✅ |
 ---
 `
 
