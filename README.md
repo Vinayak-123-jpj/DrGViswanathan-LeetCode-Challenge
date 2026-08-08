@@ -51,6 +51,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 18 | Bit++ (282A) | Codeforces | 800 | ✅ |
 | Day 19 | Domino Piling (50A) | Codeforces | 800 | ✅ |
 | Day 20 | Translation (41A) | Codeforces | 800 | ✅ |
+| Day 21 | Twins (160A) | Codeforces | 800 | ✅ |
 ---
 `
 
