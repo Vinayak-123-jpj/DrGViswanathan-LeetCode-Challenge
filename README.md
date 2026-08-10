@@ -54,6 +54,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 21 | Twins (160A) | Codeforces | 800 | ✅ |
 | Day 22 | Queue at the School (450A) | Codeforces | 800 | ✅ |
 | Day 23 | Elephant (617A) | Codeforces | 800 | ✅ |
+| Day 24 | Soldier and Bananas (546A) | Codeforces | 800 | ✅ |
 ---
 `
 
