@@ -30,7 +30,7 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 ## 📅 Progress
 
 | Day | Problem | Platform | Difficulty | Status |
-|-----|---------|----------|------------|--------|
+|---|---|---|---|---|
 | Day 1 | Find Numbers with Even Number of Digits | LeetCode | Easy | ✅ |
 | Day 2 | Fizz Buzz | LeetCode | Easy | ✅ |
 | Day 3 | Valid Palindrome | LeetCode | Easy | ✅ |
@@ -49,12 +49,17 @@ I am solving one coding problem every day as part of the **#DrGViswanathan Chall
 | Day 16 | Beautiful Matrix (263A) | Codeforces | 800 | ✅ |
 | Day 17 | Stones on the Table (266A) | Codeforces | 800 | ✅ |
 | Day 18 | Bit++ (282A) | Codeforces | 800 | ✅ |
-| Day 19 | Domino Piling (50A) | Codeforces | 800 | ✅ |
+| Day 19 | Domino piling (50A) | Codeforces | 800 | ✅ |
 | Day 20 | Translation (41A) | Codeforces | 800 | ✅ |
-| Day 21 | Twins (160A) | Codeforces | 800 | ✅ |
-| Day 22 | Queue at the School (450A) | Codeforces | 800 | ✅ |
+| Day 21 | Soldier and Bananas (546A) | Codeforces | 800 | ✅ |
+| Day 22 | Queue at the School (266B) | Codeforces | 900 | ✅ |
 | Day 23 | Elephant (617A) | Codeforces | 800 | ✅ |
 | Day 24 | Soldier and Bananas (546A) | Codeforces | 800 | ✅ |
+| Day 25 | Word (Round 55, 43A) | Codeforces | 800 | ✅ |
+| Day 26 | Football (96A) | Codeforces | 900 | ✅ |
+| Day 27 | Drinks (200B) | Codeforces | 800 | ✅ |
+| Day 28 | Petya and Countryside (61B) | Codeforces | 1000 | ✅ |
+| Day 29 | Anton and Danik (734A) | Codeforces | 800 | ✅ |
 ---
 `
 
